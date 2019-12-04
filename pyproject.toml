@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aleksbel_brain_games"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["Aleks Bel <aleksb2001@mail.ru>"]
 packages = [
@@ -12,6 +12,7 @@ python = "^3.6"
 prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
+flake8 = "^3.7"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

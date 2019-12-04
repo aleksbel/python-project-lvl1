@@ -1,5 +1,4 @@
-Добавил этот файл, потому что при отправке на гихаб 
-git push
-error: src refspec refs/heads/master does not match any.
-error: failed to push some refs to 'https://github.com/aleksbel/python-project-lvl1.git'
-
+Бэйджики 
+<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+<a href="https://codeclimate.com/github/codeclimate/codeclimate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage" /></a>
+https://travis-ci.org/travis-ci/travis-web.svg?branch=master
