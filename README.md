@@ -4,3 +4,6 @@
 !https://travis-ci.org/aleksbel/python-project-lvl1.svg?branch=master!:https://travis-ci.org/aleksbel/python-project-lvl1
 Аскинема (Проект 1, шаг 5):
 <a href="https://asciinema.org/a/HSQOwsLNTQXrmt31W1A7ZB0qk" target="_blank"><img src="https://asciinema.org/a/HSQOwsLNTQXrmt31W1A7ZB0qk.svg" /></a>
+
+Аскинема шага 6 проекта 1:
+<a href="https://asciinema.org/a/SMTHy8udUycmVsVGwOZPY7nvz" target="_blank"><img src="https://asciinema.org/a/SMTHy8udUycmVsVGwOZPY7nvz.svg" /></a>
