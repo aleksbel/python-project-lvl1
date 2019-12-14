@@ -15,3 +15,6 @@ https://travis-ci.org/aleksbel/python-project-lvl1
 
 Аскинема шага 8 проекта 1:
 <a href="https://asciinema.org/a/ARGDBvlaZXv3C6r4SfAXEwceA" target="_blank"><img src="https://asciinema.org/a/ARGDBvlaZXv3C6r4SfAXEwceA.svg" /></a>
+
+Аскинема шага 9 проекта 1:
+<a href="https://asciinema.org/a/Em7Wotve91n3qD0pI7YzUzUZS" target="_blank"><img src="https://asciinema.org/a/Em7Wotve91n3qD0pI7YzUzUZS.svg" /></a>
