@@ -17,7 +17,7 @@ def gcd_game():
         y = randint(1, 100)
         # Создаем переменную с правильным ответом
         answer_correct = gcd(x, y)
-        #print(answer_correct)
+        # print(answer_correct)
         # Формируем строку задачи x y
         expression_txt = str(x) + ' ' + str(y)
         # Далее неизменяемый код
