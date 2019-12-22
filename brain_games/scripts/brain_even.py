@@ -1,11 +1,8 @@
-from brain_games.game_parity_check import greet
-from brain_games.game_parity_check import run
-from brain_games.game_parity_check import game_parity_check
+from brain_games import games, engine
 
 
 def main():
-    greet()
-    game_parity_check(run())
+    engine.run(games.even)
 
 
 if __name__ == '__main__':
