@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "aleksbel_brain_games"
 version = "0.1.9"
-description = ""
+description = "Training hexlet. Project 1. Five games for mind"
 authors = ["Aleks Bel <aleksb2001@mail.ru>"]
+classifiers = [
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
 packages = [
     { include = "brain_games" },
   ]
