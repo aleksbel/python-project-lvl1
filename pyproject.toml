@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aleksbel_brain_games"
-version = "0.1.9"
+version = "0.1.11"
 description = "Training hexlet. Project 1. Five games for mind"
 authors = ["Aleks Bel <aleksb2001@mail.ru>"]
 classifiers = [

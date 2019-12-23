@@ -4,17 +4,17 @@
 
 https://travis-ci.org/aleksbel/python-project-lvl1
 
-Аскинема шага 5 проекта 1:
-<a href="https://asciinema.org/a/HSQOwsLNTQXrmt31W1A7ZB0qk" target="_blank"><img src="https://asciinema.org/a/HSQOwsLNTQXrmt31W1A7ZB0qk.svg" /></a>
+Asciinema: PR1 After comments mentor: package installation and brain-gcd
+<a href="https://asciinema.org/a/0kYN54Q0YIohh4J7o2MxIOs21" target="_blank"><img src="https://asciinema.org/a/0kYN54Q0YIohh4J7o2MxIOs21.svg" /></a>
 
-Аскинема шага 6 проекта 1:
-<a href="https://asciinema.org/a/SMTHy8udUycmVsVGwOZPY7nvz" target="_blank"><img src="https://asciinema.org/a/SMTHy8udUycmVsVGwOZPY7nvz.svg" /></a>
+Asciinema PR1 After comments mentor: brain-calc
+<a href="https://asciinema.org/a/TzFNFq7dcOcvQ5LsKSqgeApoo" target="_blank"><img src="https://asciinema.org/a/TzFNFq7dcOcvQ5LsKSqgeApoo.svg" /></a>
 
-Аскинема шага 7 проекта 1:
-<a href="https://asciinema.org/a/288009" target="_blank"><img src="https://asciinema.org/a/288009.svg" /></a>
+Asciinema PR1 After comments mentor: brain-even
+<a href="https://asciinema.org/a/V3ZOKtC7r9C60oLJDbcpx6qGr" target="_blank"><img src="https://asciinema.org/a/V3ZOKtC7r9C60oLJDbcpx6qGr.svg" /></a>
 
-Аскинема шага 8 проекта 1:
-<a href="https://asciinema.org/a/ARGDBvlaZXv3C6r4SfAXEwceA" target="_blank"><img src="https://asciinema.org/a/ARGDBvlaZXv3C6r4SfAXEwceA.svg" /></a>
+Asciinema PR1 After comments mentor: brain-prime
+<a href="https://asciinema.org/a/CS1C1YY0QyQ41CAXl5yWMbN3E" target="_blank"><img src="https://asciinema.org/a/CS1C1YY0QyQ41CAXl5yWMbN3E.svg" /></a>
 
-Аскинема шага 9 проекта 1:
-<a href="https://asciinema.org/a/Em7Wotve91n3qD0pI7YzUzUZS" target="_blank"><img src="https://asciinema.org/a/Em7Wotve91n3qD0pI7YzUzUZS.svg" /></a>
+Asciinema PR1 After comments mentor: brain-progression
+<a href="https://asciinema.org/a/MTOzqWr4NwSt6ZUN2kArkRSIZ" target="_blank"><img src="https://asciinema.org/a/MTOzqWr4NwSt6ZUN2kArkRSIZ.svg" /></a>
