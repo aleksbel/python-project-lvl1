@@ -4,18 +4,21 @@ from random import randrange
 GAME_TOPIC = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def game_function():
-    def inner_IsPrime(n):
-        d = 2
-        while n % d != 0:
-            d += 1
-        return d == n
+def is_prime(n):
+    d = 3
+    while d * d <= n and n % d != 0:
+        d += 2
+    return d * d > n
+
+
+def new_round():
+    # Odd numbers only
     x = randrange(1, 1000, 2)
     # Correct answer
-    if inner_IsPrime(x):
-        answer_correct = 'yes'
+    if is_prime(x):
+        correct_answer = 'yes'
     else:
-        answer_correct = 'no'
+        correct_answer = 'no'
     # We formulate a question
-    expression_txt = str(x)
-    return expression_txt, answer_correct
+    expression = str(x)
+    return expression, correct_answer

@@ -4,24 +4,21 @@ from random import randint
 GAME_TOPIC = 'What number is missing in the progression?'
 
 
-def game_function():
+def new_round():
+    progression_element = 1
+    progression = ''
     # Step progression
-    step_pr = randint(1, 10)
-    # Build a progression with the selected step
-    list_pr = list(range(1, step_pr * 10, step_pr))
+    step = randint(1, 10)
     # determine the item number to replace
-    number_element = randint(0, 9)
-    # Correct answer
-    answer_correct = list_pr[number_element]
-    # Replace the number with points
-    list_pr[number_element] = '..'
-    # Convert to string
-    list_pr = str(list_pr)
-    # Remove extra characters
-    list_pr = list_pr.replace(',', '')
-    list_pr = list_pr.replace("'..'", '..')
-    list_pr = list_pr.replace('[', '')
-    list_pr = list_pr.replace(']', '')
-    #  We formulate a question
-    expression_txt = list_pr
-    return expression_txt, answer_correct
+    element_index = randint(0, 9)
+    # Build a progression with the selected step
+    for i in range(10):
+        # Replace the number with points
+        if i == element_index:
+            correct_answer = str(progression_element)
+            progression += '..' + ' '
+        else:
+            progression += str(progression_element) + ' '
+        progression_element += step
+    expression = progression
+    return expression, correct_answer
