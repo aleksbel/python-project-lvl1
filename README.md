@@ -4,17 +4,17 @@
 
 https://travis-ci.org/aleksbel/python-project-lvl1
 
-Asciinema: PR1 After comments mentor: package installation and brain-gcd
-<a href="https://asciinema.org/a/0kYN54Q0YIohh4J7o2MxIOs21" target="_blank"><img src="https://asciinema.org/a/0kYN54Q0YIohh4J7o2MxIOs21.svg" /></a>
+Asciinema: PR1 After mentor's comments 24.12.19: package installation and brain-progression
+<a href="https://asciinema.org/a/2MyVmjknCwSMWowxPhrU4NRjb" target="_blank"><img src="https://asciinema.org/a/2MyVmjknCwSMWowxPhrU4NRjb.svg" /></a>
 
-Asciinema PR1 After comments mentor: brain-calc
-<a href="https://asciinema.org/a/TzFNFq7dcOcvQ5LsKSqgeApoo" target="_blank"><img src="https://asciinema.org/a/TzFNFq7dcOcvQ5LsKSqgeApoo.svg" /></a>
+Asciinema PR1 After mentor's comments 24.12.19: brain-calc
+<a href="https://asciinema.org/a/IAwn9wLgkOzWBybfimiY49KLW" target="_blank"><img src="https://asciinema.org/a/IAwn9wLgkOzWBybfimiY49KLW.svg" /></a>
 
-Asciinema PR1 After comments mentor: brain-even
-<a href="https://asciinema.org/a/V3ZOKtC7r9C60oLJDbcpx6qGr" target="_blank"><img src="https://asciinema.org/a/V3ZOKtC7r9C60oLJDbcpx6qGr.svg" /></a>
+Asciinema PR1 After mentor's comments 24.12.19: brain-even
+<a href="https://asciinema.org/a/37OPHYu8oRGgWXjLWAY7uwT1D" target="_blank"><img src="https://asciinema.org/a/37OPHYu8oRGgWXjLWAY7uwT1D.svg" /></a>
 
-Asciinema PR1 After comments mentor: brain-prime
-<a href="https://asciinema.org/a/CS1C1YY0QyQ41CAXl5yWMbN3E" target="_blank"><img src="https://asciinema.org/a/CS1C1YY0QyQ41CAXl5yWMbN3E.svg" /></a>
+Asciinema PR1 After mentor's comments 24.12.19: brain-prime
+<a href="https://asciinema.org/a/BNFvdS3ij8T9OP2rfCkqN80pI" target="_blank"><img src="https://asciinema.org/a/BNFvdS3ij8T9OP2rfCkqN80pI.svg" /></a>
 
-Asciinema PR1 After comments mentor: brain-progression
-<a href="https://asciinema.org/a/MTOzqWr4NwSt6ZUN2kArkRSIZ" target="_blank"><img src="https://asciinema.org/a/MTOzqWr4NwSt6ZUN2kArkRSIZ.svg" /></a>
+Asciinema PR1 After mentor's comments 24.12.19: brain-gcd
+<a href="https://asciinema.org/a/psrGq1fBxnhwqmkx65NyanMc0" target="_blank"><img src="https://asciinema.org/a/psrGq1fBxnhwqmkx65NyanMc0.svg" /></a>
